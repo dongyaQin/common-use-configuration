@@ -22,6 +22,9 @@ Run Configurations->Maven Build上右键->new:<br>
 -Drebel.logback_plugin=true<br>
 -Drebel.mybatis_plugin=true<br>
 
+####	myeclipse配置egit无密码ssh提交
+[戳我](http://stackoverflow.com/questions/3601805/auth-failed-error-with-egit-and-github)
+
 ## 数据库
 
 ####安装Postgresql。
